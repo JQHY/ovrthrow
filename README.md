@@ -1,6 +1,6 @@
 # oVRthrow
 
-Welcome to oVRthrow's repository! This project was prepared by Group 26, who are Jonathan Yeap, Isaac Ray, Ben Belay and Chris Stuttard. 
+Welcome to oVRthrow's repository! This project was prepared by Jonathan Yeap, Isaac Ray, Ben Belay and Chris Stuttard, and we are Durham's Group 26 Software Engineering team. 
 
 The 'OVRTHROW Source Files' directory contains all the source code to run the project in Unity. This can then be used to make Unity Builds.
 

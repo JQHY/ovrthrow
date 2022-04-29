@@ -40,7 +40,7 @@ For more info about playing the game, and troubleshooting, check out the user ma
 
 ## Features in Development (Prototypes)
 
-The game currently has no Watson speech commands. We have implemented Watson SDK in Unity, and successfully made some voice commands work, however this isn't yet stable enough to add to the game. To see how far we implemented Watson, and what features we were planning to use it for, see Section 3.5 of the user manual.
+The game currently only has protoype Watson speech commands. We have implemented Watson SDK in OVRTHROWPLUS, and have included the additional files needed in the "OVRTHROW With Voice Commands Source" directory. The OVRTHROWPLUS build is moderately less stable than classic OVRTHROW, so please keep this in mind. To see how far we implemented Watson, and what features we were planning to use it for, see Section 3.5 of the user manual.
 
 We have prototyped a swing analyser that checks your form when making kettle bell swing. This is currently prototyped for desktop, before being implemented in VR. This feature would check that your making an accurate swing, and then show a text prompt of "Good Swing!". Making a bad swing will show a text prompt of "Bad Swing" and tell you what was wrong. The Unity source files are found in Prototypes/Swing_Analyser. Step-by-step instructions are included in the game scene. 
 

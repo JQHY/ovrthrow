@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - highscore
+  - PlayButton
+  - DifficultyButton
+  - MusicButton
+  - TutorialButton
+  - QuitButton
+  - FxTemporaire
+  - BackButton1
+  - EasyMode
+  - MediumMode
+  - HardMode
+  - BackButton2
+  - BackButton3
+  - BackButton4
+  - EasyModeText
+  - MediumModeText
+  - HardModeText
+  - Vol1Collider
+  - Vol2Collider
+  - Vol3Collider
+  - Vol4Collider
+  - Vol5Collider
+  - SFX1Collider
+  - SFX2Collider
+  - SFX3Collider
+  - SFX4Collider
+  - SFX5Collider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - wall
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

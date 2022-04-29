@@ -10,6 +10,10 @@ The directory 'OVRTHROW Source Files' contains all the source code to run the pr
 
 If you want to quickly run the game, you can unzip OVRTHROW_BUILD.zip, and run the OVRTHROW.exe application. For more information, see the "Quick start guide" in "Ovrthrow User Manual.pdf".
 
+## Setup & Requirements
+
+oVRthrow is built for SteamVR, and was developed using the Quest 2 and Oculus Link. SteamVR also makes the game compatible with a large range of Virtual Reality headsets, and there is a full list of these in Section 2.2 of the user manual. Note that all of these headsets (with the exception of Quest 2 via AirLink) must be connected to the PC via a cable. To run this application on your PC, install the latest available version of SteamVR. The best way to install SteamVR as a user is through the Steam launcher. Please see section 2.2 of the user manual for a step-by-step guide for setting up.
+
 ## Game menu
 
 When you first load the game, you will have to calibrate your height, and then be greeted by the main menu. Here you can change the game difficulty or watch the tutorial. Hit play to run the game. 
@@ -28,7 +32,7 @@ The rest phase simply allows you to catch your breath, before another round star
 
 The more damage you can do to the enemy, and the more walls you can repair, the more points you earn! However, you will also lose points if you don't repair your walls. Try to beat your highscore!
 
-For more info about playing the game, and troubleshooting, check out "Ovrthrow User Manual.pdf".
+For more info about playing the game, and troubleshooting, check out the user manual. 
 
 ## Features in development
 

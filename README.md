@@ -16,7 +16,7 @@ oVRthrow is built for SteamVR, and was developed using the Quest 2 and Oculus Li
 
 The Unity files were developed with Unity Editor version 2020.3.2. It is reccommended that the same editor version is used for running source code and making builds.
 
-## Game menu
+## Game Menu
 
 When you first load the game, you will have to calibrate your height, and then be greeted by the main menu. Here you can change the game difficulty or watch the tutorial. Changing the difficulty of the game will result in enemy walls requiring more hits to destroy, and cannons firing more accurately. Hit play to run the game. 
 

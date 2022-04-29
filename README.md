@@ -32,9 +32,9 @@ The repair phase follows, where you must try to repair your castle walls. Damage
 
 The rest phase simply allows you to catch your breath, before another round starts.
 
-The more damage you can do to the enemy, and the more walls you can repair, the more points you earn! However, you will also lose points if you don't repair your walls. Try to beat your highscore!
+After each round, the total health of the enemy walls increases, and so will take more throws to destroy.
 
-After each round, the total health of the enemy walls increases, and so will take more throws to destroy!
+The more damage you can do to the enemy, and the more walls you can repair, the more points you earn! However, you will also lose points if you don't repair your walls. Try to beat your highscore!
 
 For more info about playing the game, and troubleshooting, check out the user manual. 
 

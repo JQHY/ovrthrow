@@ -18,7 +18,7 @@ The Unity files were developed with Unity Editor version 2020.3.2. It is reccomm
 
 ## Game menu
 
-When you first load the game, you will have to calibrate your height, and then be greeted by the main menu. Here you can change the game difficulty or watch the tutorial. Hit play to run the game. 
+When you first load the game, you will have to calibrate your height, and then be greeted by the main menu. Here you can change the game difficulty or watch the tutorial. Changing the difficulty of the game will result in enemy walls requiring more hits to destroy, and cannons firing more accurately. Hit play to run the game. 
 
 ## Gameplay
 
@@ -33,6 +33,8 @@ The repair phase follows, where you must try to repair your castle walls. Damage
 The rest phase simply allows you to catch your breath, before another round starts.
 
 The more damage you can do to the enemy, and the more walls you can repair, the more points you earn! However, you will also lose points if you don't repair your walls. Try to beat your highscore!
+
+After each round, the total health of the enemy walls increases, and so will take more throws to destroy!
 
 For more info about playing the game, and troubleshooting, check out the user manual. 
 

@@ -42,6 +42,8 @@ For more info about playing the game, and troubleshooting, check out the user ma
 
 The game currently has no Watson speech commands. We have implemented Watson SDK in Unity, and successfully made some voice commands work, however this isn't yet stable enough to add to the game. To see how far we implemented Watson, and what features we were planning to use it for, see Section 3.5 of the user manual.
 
+A swing analyser that checks your form when making kettle bell swing throws is also still in development. This feature would check that your making an accurate swing, and then show a text prompt to confirm this, and also tell you when you're making a bad swing. 
+
 There is also yet to be music and sound effects in the game.
 
 ## Our client

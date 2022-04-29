@@ -38,11 +38,11 @@ The more damage you can do to the enemy, and the more walls you can repair, the 
 
 For more info about playing the game, and troubleshooting, check out the user manual. 
 
-## Features in development
+## Features in development (Prototypes)
 
 The game currently has no Watson speech commands. We have implemented Watson SDK in Unity, and successfully made some voice commands work, however this isn't yet stable enough to add to the game. To see how far we implemented Watson, and what features we were planning to use it for, see Section 3.5 of the user manual.
 
-A swing analyser that checks your form when making kettle bell swing throws is also still in development. This feature would check that your making an accurate swing, and then show a text prompt to confirm this, and also tell you when you're making a bad swing. 
+We have prototyped a swing analyser that checks your form when making kettle bell swing. This feature would check that your making an accurate swing, and then show a text prompt to confirm this, and also tell you when you're making a bad swing. The Unity source files are found in Prototypes/Swing_Analyser. Step-by-step instructions are included in the game scene. 
 
 There is also yet to be music and sound effects in the game.
 

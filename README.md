@@ -38,7 +38,7 @@ The more damage you can do to the enemy, and the more walls you can repair, the 
 
 For more info about playing the game, and troubleshooting, check out the user manual. 
 
-## Features in development (Prototypes)
+## Features in Development (Prototypes)
 
 The game currently has no Watson speech commands. We have implemented Watson SDK in Unity, and successfully made some voice commands work, however this isn't yet stable enough to add to the game. To see how far we implemented Watson, and what features we were planning to use it for, see Section 3.5 of the user manual.
 
@@ -46,7 +46,7 @@ We have prototyped a swing analyser that checks your form when making kettle bel
 
 There is also yet to be music and sound effects in the game.
 
-## Our client
+## Our Client
 
 This project was commissioned by IBM, and IBM Master Inventor John McNamara. We have really enjoyed collaborating!
 

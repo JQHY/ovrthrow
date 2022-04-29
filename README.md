@@ -12,7 +12,7 @@ If you want to quickly run the game, you can unzip OVRTHROW.zip, and run the OVR
 
 ## Setup & Requirements
 
-oVRthrow is built for SteamVR, and was developed using the Quest 2 and Oculus Link. SteamVR also makes the game compatible with a large range of Virtual Reality headsets, and there is a full list of these in Section 2.2 of the user manual. Note that all of these headsets (with the exception of Quest 2 via AirLink) must be connected to the PC via a cable. To run this application on your PC, install the latest available version of SteamVR. The best way to install SteamVR as a user is through the Steam launcher. Please see section 2.2 of the user manual for a step-by-step guide for setting up.
+oVRthrow is built for SteamVR, and was developed using the Quest 2 and Oculus Link. SteamVR also makes the game compatible with a large range of Virtual Reality headsets, and there is a full list of these in Section 2.2 of the user manual. Note that all of these headsets (with the exception of Quest 2 via AirLink) must be connected to the PC via a cable. To run this application on your PC, install the latest available version of SteamVR. Please see section 2.2 of the user manual for a step-by-step guide of setting up.
 
 The Unity files were developed with Unity Editor version 2020.3.2. It is reccommended that the same editor version is used for running source code and making builds.
 

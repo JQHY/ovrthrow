@@ -42,7 +42,9 @@ For more info about playing the game, and troubleshooting, check out the user ma
 
 The game currently only has protoype Watson speech commands. We have implemented Watson SDK in OVRTHROWPLUS, and have included the additional files needed in "OVRTHROW With Voice Commands Source.zip". These additional files would need to be added to the 'OVRTHROW Source Project' files. To download OVRTHROWPLUS with the additional files already integrated, use this link: https://drive.google.com/drive/folders/1ocCH0k_O0EMIQ50_HTle7ievwJnpHDXM?usp=sharing
 
-To quickly run OVRTHROWPLUS, simply unzip "OVRTHROWPLUS.zip" and run "OVRTHROW.exe". The OVRTHROWPLUS build is moderately less stable than classic OVRTHROW, so please keep this in mind. Please refer to the "Quick Start Guide" in the user manual for more setup information. Please note that all the OVRTHROWPLUS files are password protected as they contain private Watson keys. This password is with the client. You can find more information on the Watson features of the game in Section 3.5 of the user manual.
+To quickly run OVRTHROWPLUS, simply unzip "OVRTHROWPLUS.zip" and run "OVRTHROW.exe". The OVRTHROWPLUS build is moderately less stable than classic OVRTHROW, so please keep this in mind. Please refer to the "Quick Start Guide" in the user manual for more setup information. 
+
+Please note that all the OVRTHROWPLUS files are password protected as they contain private Watson keys. This password is with the client. You can find more information on the Watson features of the game in Section 3.5 of the user manual.
 
 We have prototyped a swing analyser that checks your form when making kettle bell swing. This is currently prototyped for desktop, before being implemented in VR. This feature would check that your making an accurate swing, and then show a text prompt of "Good Swing!". Making a bad swing will show a text prompt of "Bad Swing" and tell you what was wrong. The Unity source files are found in Prototypes/Swing_Analyser. Step-by-step instructions are included in the game scene. 
 

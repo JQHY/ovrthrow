@@ -6,9 +6,9 @@ Prepared by Jonathan Yeap, Isaac Ray, Ben Belay and Chris Stuttard.
 
 ## Overview
 
-The directory 'OVRTHROW Source Project' contains all the source code to run the project in Unity. This can then be used to make Unity Builds.
+The directory 'OVRTHROW Source Project' contains all the source code to run the project in Unity.
 
-If you want to quickly run the game, you can unzip OVRTHROW.zip, and run the OVRTHROW.exe application. For more information, see the "Quick start guide" in "Ovrthrow User Manual.pdf".
+We have included a Unity build for running the game quickly. To use it, simply unzip OVRTHROW.zip, and run the OVRTHROW.exe application. For more information, see the "Quick start guide" in "Ovrthrow User Manual.pdf".
 
 ## Setup & Requirements
 
@@ -40,7 +40,7 @@ For more info about playing the game, and troubleshooting, check out the user ma
 
 ## Features in Development (Prototypes)
 
-The game currently only has protoype Watson speech commands. We have implemented Watson SDK in OVRTHROWPLUS, and have included the additional files needed in the "OVRTHROW With Voice Commands Source" directory. The OVRTHROWPLUS build is moderately less stable than classic OVRTHROW, so please keep this in mind. This build allows you to run this version of the game directly. To see how far we implemented Watson, and what features we were planning to use it for, see Section 3.5 of the user manual.
+The game currently only has protoype Watson speech commands. We have implemented Watson SDK in OVRTHROWPLUS, and have included the additional files needed in "OVRTHROW With Voice Commands Source.zip". The OVRTHROWPLUS build is moderately less stable than classic OVRTHROW, so please keep this in mind. You can run this build of the game by simply unzipping "OVRTHROWPLUS.zip", and running "OVRTHROW.exe". The steps for running this build are the same as seen in the "Quick Start Guide" in the user manual. Please note that "OVRTHROW With Voice Commands Source" and "OVRTHROWPLUS.zip" are both password protected as they contain private Watson keys. This password is with the client. Please also see Section 3.5 of the user manual for more information on the Watson features of the game.
 
 We have prototyped a swing analyser that checks your form when making kettle bell swing. This is currently prototyped for desktop, before being implemented in VR. This feature would check that your making an accurate swing, and then show a text prompt of "Good Swing!". Making a bad swing will show a text prompt of "Bad Swing" and tell you what was wrong. The Unity source files are found in Prototypes/Swing_Analyser. Step-by-step instructions are included in the game scene. 
 

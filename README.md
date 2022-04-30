@@ -54,8 +54,9 @@ There is yet to be music and sound effects in the game.
 
 This project was commissioned by IBM, and IBM Master Inventor John McNamara. We have really enjoyed collaborating!
 
+## Contact
 
-
+For any questions with using the project, please email: isaac.r.ray@durham.ac.uk
 
 
 

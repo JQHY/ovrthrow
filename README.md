@@ -46,7 +46,7 @@ To quickly run OVRTHROWPLUS, simply unzip "OVRTHROWPLUS.zip" and run "OVRTHROW.e
 
 We have prototyped a swing analyser that checks your form when making kettle bell swing. This is currently prototyped for desktop, before being implemented in VR. This feature would check that your making an accurate swing, and then show a text prompt of "Good Swing!". Making a bad swing will show a text prompt of "Bad Swing" and tell you what was wrong. The Unity source files are found in Prototypes/Swing_Analyser. Step-by-step instructions are included in the game scene. 
 
-There is also yet to be music and sound effects in the game.
+There is yet to be music and sound effects in the game.
 
 ## Our Client
 

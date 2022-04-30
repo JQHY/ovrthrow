@@ -8,7 +8,7 @@ Prepared by Jonathan Yeap, Isaac Ray, Ben Belay and Chris Stuttard.
 
 The directory 'OVRTHROW Source Project' contains all the source code to run the project in Unity.
 
-We have included a Unity build for running the game quickly. To use it, simply unzip OVRTHROW.zip, and run the OVRTHROW.exe application. For more information, see the "Quick start guide" in "Ovrthrow User Manual.pdf".
+We have included a Unity build for running the game quickly. To use it, simply unzip OVRTHROW.zip, and run the OVRTHROW.exe application. For more information, see the "Quick Start Guide" in "Ovrthrow User Manual.pdf".
 
 ## Setup & Requirements
 
